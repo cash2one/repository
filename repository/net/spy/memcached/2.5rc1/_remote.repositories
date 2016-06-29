@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 15:53:05 CST 2016
+memcached-2.5rc1.jar>=
+memcached-2.5rc1.jar>zz91_repository=
+memcached-2.5rc1.pom>zz91_repository=
+memcached-2.5rc1-sources.jar>zz91_repository=
+memcached-2.5rc1-sources.jar>=

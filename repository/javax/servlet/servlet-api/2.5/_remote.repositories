@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 15:53:03 CST 2016
+servlet-api-2.5-sources.jar>=
+servlet-api-2.5.jar>=
+servlet-api-2.5.pom>shishang_repository=
+servlet-api-2.5.jar>zz91_repository=
+servlet-api-2.5.pom>zz91_repository=
+servlet-api-2.5.pom>central=
+servlet-api-2.5-sources.jar>zz91_repository=

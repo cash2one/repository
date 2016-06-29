@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.ast1949</groupId>
+  <artifactId>ast1949-yuanliao</artifactId>
+  <versioning>
+    <release>1.0.19</release>
+    <versions>
+      <version>1.0.15</version>
+      <version>1.0.16</version>
+      <version>1.0.17</version>
+      <version>1.0.18</version>
+      <version>1.0.19</version>
+    </versions>
+    <lastUpdated>20160628092528</lastUpdated>
+  </versioning>
+</metadata>

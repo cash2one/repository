@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Dec 22 12:59:42 CST 2015
+http\://192.168.2.178\:8080/artifactory/plugins-releases/.lastUpdated=1450760255290
+http\://192.168.2.178\:8080/artifactory/plugins-releases/.error=
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1450760382587
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-digest\:pom\:1.0 from/to central (https\://repo.maven.apache.org/maven2)\: Connect to repo.maven.apache.org\:443 [repo.maven.apache.org/185.31.18.215] failed\: \u8FDE\u63A5\u8D85\u65F6

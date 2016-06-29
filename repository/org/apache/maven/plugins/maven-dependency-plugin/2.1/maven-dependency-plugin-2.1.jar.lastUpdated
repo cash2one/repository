@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 22 11:46:09 CST 2015
+http\://192.168.2.178\:8080/artifactory/plugins-releases/.lastUpdated=1450755907893
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1450755969246
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-dependency-plugin\:jar\:2.1 from/to central (http\://repo.maven.apache.org/maven2)\: Read timed out
+http\://192.168.2.178\:8080/artifactory/plugins-releases/.error=

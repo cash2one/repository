@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 15:53:03 CST 2016
+zookeeper-3.3.6-sources.jar>=
+zookeeper-3.3.6.jar>=
+zookeeper-3.3.6.jar>zz91_repository=
+zookeeper-3.3.6-sources.jar>zz91_repository=
+zookeeper-3.3.6.pom>zz91_repository=

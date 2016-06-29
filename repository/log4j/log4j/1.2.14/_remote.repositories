@@ -1,0 +1,8 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Apr 25 15:53:03 CST 2016
+log4j-1.2.14-sources.jar>=
+log4j-1.2.14.jar>=
+log4j-1.2.14.jar>zz91_repository=
+log4j-1.2.14.pom>central=
+log4j-1.2.14.pom>zz91_repository=
+log4j-1.2.14-sources.jar>zz91_repository=

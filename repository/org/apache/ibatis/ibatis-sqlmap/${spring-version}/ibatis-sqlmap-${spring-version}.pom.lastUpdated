@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon May 23 09:23:07 CST 2016
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.ibatis\:ibatis-sqlmap\:pom\:${spring-version} from/to central (http\://repo.maven.apache.org/maven2)\: Illegal character in path at index 69\: http\://repo.maven.apache.org/maven2/org/apache/ibatis/ibatis-sqlmap/${spring-version}/ibatis-sqlmap-${spring-version}.pom
+@default-http\://repo.maven.apache.org/maven2/.lastUpdated=1463966587447
